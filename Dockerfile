@@ -1,4 +1,4 @@
-ting a dockerfile for image
+#creating a dockerfile for image
 #building from mother image
 FROM ubuntu:latest 
 #in-charge
